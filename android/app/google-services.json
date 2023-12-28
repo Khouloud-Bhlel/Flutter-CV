@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161347218661",
+    "firebase_url": "https://projectcv-42c31-default-rtdb.firebaseio.com",
+    "project_id": "projectcv-42c31",
+    "storage_bucket": "projectcv-42c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161347218661:android:4bdf3cc88fe77f6d66780c",
+        "android_client_info": {
+          "package_name": "com.example.projectcv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSXeoLW2RzCP9uQ-QkO7CS4HfWQAybx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
